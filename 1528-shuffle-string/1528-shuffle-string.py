@@ -12,6 +12,11 @@ class Solution:
             lst_s[ indices[i] ] = s[i]
         
         return "".join(lst_s)
-            
+        
+        # Time Complexity -> O(n)
+        # Space Complexity -> O(n)
+        
+        
+        
             
             
